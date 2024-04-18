@@ -1,0 +1,42 @@
+.container {
+  height: 100vh;
+  background: linear-gradient(to right, #fa7257, #fc63a7);
+  font-family: Roboto;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.heading {
+  color: white;
+  text-align: center;
+}
+
+.fullname-card {
+  display: flex;
+  align-self: center;
+}
+
+.name-card {
+  display: flex;
+  flex-direction: column;
+}
+
+.button {
+  color: #dd1264;
+  border-radius: 5px;
+  border-width: 0px;
+  padding: 8px;
+  margin: 20px;
+}
+
+.name {
+  color: black;
+  background-color: #fddddb;
+  border-radius: 5px;
+  border-width: 0px;
+  padding: 20px;
+  margin: 20px;
+  text-align: center;
+}
